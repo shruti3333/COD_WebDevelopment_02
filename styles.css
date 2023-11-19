@@ -1,0 +1,84 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background-color:lightgoldenrodyellow;
+    background: url("./assets/top-view-desk-with-notepad.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:palevioletred;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+    text-align: center;
+}
+
+
+img{
+    border-radius: 50%;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color:lavenderblush;
+    background: url("./assets/leone-venter-VieM9BdZKFo-unsplash.jpg");
+    background-size: cover;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: lemonchiffon;
+    background: url("./assets/stefan-grage-Y4MKctPwIrw-unsplash.jpg");
+    background-size: cover;
+}
+p{
+    text-align: center;
+    width: 200px;
+}
+h3 {
+    text-align: center;
+    width: 200px;
+    font-size: large;
+    font-weight: lighter;
+    font-family: cursive;
+}
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: lavenderblush;
+    background: url("./assets/augustine-wong-li0iC0rjvvg-unsplash.jpg");
+    background-size: cover;
+}
+button {
+    background-color: teal;
+    color: white;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15spx;
+}
+.container5 {
+    background-color: lemonchiffon;
+}
+button a {
+    text-decoration: none;
+}
